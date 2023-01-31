@@ -1,47 +1,51 @@
 # DogLoversPage
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
-  ## Description
+## Description
 
-  Learning Semantic HTML, I created a dupe project of what is on freeCodeCamp.
+Learning Semantic HTML, I created a dupe project of what is on freeCodeCamp.
 
-  ## Table of Contents
+## Table of Contents
 
-  -[Installation](#installation)
+-[Installation](#installation)
 
-  -[Usage](#Usage)
+-[Usage](#Usage)
 
-  -[License](#license)
+-[Demo](#demo)
 
-  -[Contributing](#contributing)
+-[License](#license)
 
-  -[Tests](#tests)
+-[Contributing](#contributing)
 
-  -[Questions](#questions)
+-[Tests](#tests)
 
-  ## Installation
+-[Questions](#questions)
 
-  n/a
+## Installation
 
-  ## Usage
+n/a
 
-  Just an exercise, repo not deployed.
+## Usage
 
-  ## License
+Just an exercise, repo not deployed.
 
-  This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+## Demo
 
-  ## Contributing
+![](assets/doglovers.png)
 
-  n/a
+## License
 
-  ## Tests
+This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
 
-  n/a
+## Contributing
 
-  ## Questions
+n/a
 
-  If you have any questions about the repo, open an issue or contact me directly at egomezfax19@gmail.com. You can find more of my work at [www.github.com/egome019](https://github.com/egome019)
+## Tests
 
-  
+n/a
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at egomezfax19@gmail.com. You can find more of my work at [www.github.com/egome019](https://github.com/egome019)
